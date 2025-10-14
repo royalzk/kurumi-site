@@ -7,6 +7,6 @@ body {
 }
 
 /* Additional font styles for other elements if necessary */
-h1, h2, h3, p {
+h1, h2, h3, h4, h5, p, a {
     font-family: "Comic Relief", system-ui !important; /* Ensures consistency */
 }
